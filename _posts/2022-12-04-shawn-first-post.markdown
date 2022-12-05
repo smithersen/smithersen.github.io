@@ -25,7 +25,7 @@ Bocchi 2
 <img alt="Bocchi Head Shake 2" class="process" src="/assets/bocchi2.gif">
 
 Fiora Wallpaper
-<img alt="Project Fiora" class="process" src="/assets/fiora.jpg">
+<img alt="Project Fiora" class="process" src="/assets/fiora.JPG">
 
 Favorite Wallpaper
 <img alt="Wallpaper" class="process" src="/assets/Senjougahara.jpg">
