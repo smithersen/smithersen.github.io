@@ -26,3 +26,6 @@ Bocchi 2
 
 Fiora Wallpaper
 <img alt="Project Fiora" class="process" src="/assets/fiora.jpg">
+
+Favorite Wallpaper
+<img alt="Wallpaper" class="process" src="/assets/Senjougahara.jpg">
