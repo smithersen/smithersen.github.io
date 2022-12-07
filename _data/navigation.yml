@@ -1,10 +1,10 @@
 - name: Projects
-  link: /projects/2d-platformer/2d-platformer
+  link: /projects/2d-platformer.html
 - name: Image Gallery
-  link: /gallery/
+  link: /gallery.html
 - name: Blog
   link: /blog/
 - name: Recipe Page
-  link: /example-recipe/
+  link: /example-recipe.html
 - name: Resume
   link: /assets/ShawnSmith-2022-Resume.pdf
