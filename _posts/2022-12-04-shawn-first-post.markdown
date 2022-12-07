@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Shawn Trying to Figure it Out"
+description: Pausechamp?
+author: Shawn
 date:   2022-12-04 15:57:10 -0800
-categories: test
-caption: "Test Caption"
-type: "Personal Project"
-intro: "Figuring out how this works"
+hero_image: /assets/bocchi2.gif
+hero_height: is-large
+hero_darken: true
+image: /assets/fiora.JPG
 ---
 
 # Introduction
