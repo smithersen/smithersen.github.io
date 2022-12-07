@@ -6,8 +6,8 @@ description: An example recipe page
 author: CS Rhymes
 date: 2021-03-02
 show_sidebar: false
-image: /assets/donald.gif
-hero_image: /assets/donald.gif
+image: /assets/donald.GIF
+hero_image: /assets/donald.GIF
 hero_darken: true
 ingredients:
     - 1tsp vegetable oil
