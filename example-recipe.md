@@ -15,9 +15,9 @@ ingredients:
     - 1 Green Bell Pepper, Sliced
     - 1 Red Bell Pepper, Sliced
     - 1 Yellow Bell Pepper, Sliced
-    - 3 Fresno Chillis *Optional in Choice of Chillis or None at All*
+    - 3 Fresno Chillis (Optional in Choice of Chillis or None at All)
     - 4 Cloves of Garlic, Crushed and Diced
-    - 3/4 lb of Thin Cut Beef (Chef Choice), Thin Sliced
+    - 3/4 lb of Thin Cut Beef (Cooks Choice), Thin Sliced
     - 12-16 oz Firm Tofu, Cut Into Bite Sized Pieces
     - 1/2 Cup Soy Sauce
     - 1 Whole Lemon, Juiced
