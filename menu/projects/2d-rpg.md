@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2D RPG
-subtitle: Practice 2D RPG
+title: 2D Platformer
+subtitle: Practice 2D Platformer
 description: An example showcase page to help you easily display your work
 menubar: projects_menu
 show_sidebar: false
@@ -13,4 +13,4 @@ I'm currently learning how to use the Godot Game Engine to some day create my ow
 
 ## The Game
 
-The second game tutorial I am following is for a 2D RPG. The tutorial series is called [Make an Action RPG in Godot 3.2](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a). This one I will be able to post updates on my progress as I go along with the tutorial series.
+The first game I've learned to make was a 2D Platformer. I spent time following a tutorial series called [Make Your First 2D Gane with Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk&list=PLhqJJNjsQ7KH_z21S_XeXD3Ht3WnSqW97) and essentially went along and made my own game. The game is essentially finishished. All I need to do is follow the final video of the tutorial to add a home screen, game over screen, and a score tracker. Although I finished the tutorial levels, what I can do is create new levels and post updates of that onto here. 
