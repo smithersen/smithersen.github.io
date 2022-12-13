@@ -22,13 +22,8 @@ ingredients:
     - 1/2 Cup Soy Sauce
     - 1 Whole Lemon, Juiced
     - 1/2 tsp Ground Black Pepper
-
-marinating:
-    - Add the beef of choice to medium or large bowl
-    - Add the ground pepper and massage into the beef
-    - Add the soy sauce and juice of a lemon into the bowl
-    - Massage marinade into beef and marinate for 30 minutes
 method:
+    - Marinate beef in soy sauce, lemon, and ground black pepper for 1 hour to overnight
     - Add and heat 1 tsp of vegetable oil in a large pan on a medium-high heat, then add the green, red, yellow peppers, and chillis and cook for five to ten minutes to soften, stirring occasionally
     - Remove peppers and add another 1 tsp of vegetable oil on medium-high heat, then add the tofu and cook for five minutes on each side
     - Remove the tofu and add another 1 tsp of vegetable oil on medium-high heat, then add the garlic and beef and cook for five to ten minutes, stirring occasionally

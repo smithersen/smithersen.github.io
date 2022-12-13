@@ -13,4 +13,4 @@ I'm currently learning how to use the Godot Game Engine to some day create my ow
 
 ## The Game
 
-The first game I've learned to make was a 2D Platformer. I spent time following a tutorial series called [Make Your First 2D Gane with Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk&list=PLhqJJNjsQ7KH_z21S_XeXD3Ht3WnSqW97) and essentially went along and made my own game.
+The first game I've learned to make was a 2D Platformer. I spent time following a tutorial series called [Make Your First 2D Gane with Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk&list=PLhqJJNjsQ7KH_z21S_XeXD3Ht3WnSqW97) and essentially went along and made my own game. The game is essentially finishished. All I need to do is follow the final video of the tutorial to add a home screen, game over screen, and a score tracker. Although I finished the tutorial levels, what I can do is create new levels and post updates of that onto here. 
