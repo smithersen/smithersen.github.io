@@ -5,6 +5,7 @@ subtitle: Filipino Beef Steak w/ Added Stir-Fry Ingredients
 description: Filipino recipe with added liberties 
 author: Shawn
 date: 2022-12-12
+menubar: recipes_menu
 show_sidebar: false
 image: /assets/donald.GIF
 hero_image: /assets/donald.GIF

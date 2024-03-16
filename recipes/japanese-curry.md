@@ -5,6 +5,7 @@ subtitle:
 description: Curry Recipe I found and modified a bit
 author: Shawn
 date: 2024-03-16
+menubar: recipes_menu
 show_sidebar: false
 image: /assets/meme.jpg
 hero_image: /assets/meme.jpg
