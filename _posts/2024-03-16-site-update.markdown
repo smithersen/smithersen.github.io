@@ -3,7 +3,7 @@ layout: post
 title:  "Site Update 2024 March 16"
 description: POG
 author: Shawn
-date:   2024-03-16 23:45:10 -0800
+date:   2024-03-16 23:45:10
 hero_image: /assets/DiesofCringe.GIF
 hero_height: is-large
 hero_darken: true
