@@ -7,8 +7,8 @@ author: Shawn
 date: 2024-03-16
 menubar: recipes_menu
 show_sidebar: false
-image: /assets/meme.jpg
-hero_image: /assets/meme.jpg
+image: /assets/meme.JPG
+hero_image: /assets/meme.JPG
 hero_darken: true
 ingredients:
     - 2 tsp vegetable oil
