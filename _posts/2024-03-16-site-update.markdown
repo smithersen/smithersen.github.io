@@ -12,6 +12,6 @@ image: /assets/Senjougahara.jpg
 
 ## Small Update
 
-Added a recipe and did a little tweeking for the menu bars. Anyways here's a video on the Cardi B/Nikki Minaj beef:
+Added a recipe and did a little tweeking for the menu bars. Anyways here's a video on the Megan thee Stallion/Nikki Minaj beef:
 
 {% include youtube.html video="jsJAVLcrUyQ" %}
