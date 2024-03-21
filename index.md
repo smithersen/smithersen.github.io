@@ -23,7 +23,11 @@ I essentially created this site for personal and career use. Although it will mo
 ## To-Do List for this Website
 
 -Update resume
+
 -Update about me page
+
 -Add food gallery for foods and restaraunts I've tried
+
 -Add a section for trip photos
+
 -Figure out whatelse I can add into here
