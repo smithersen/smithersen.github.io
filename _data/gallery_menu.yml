@@ -1,8 +1,8 @@
 - label: Galleries
   items:
     - name: Gallery1
-      link: galleries/gallery/
+      link: galleries/gallery.html
     - name: Gallery2
-      link: galleries/gallery2/
+      link: galleries/gallery2.html
     - name: Gallery3
-      link: galleries/gallery3/
+      link: galleries/gallery3.html
