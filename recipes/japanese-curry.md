@@ -36,7 +36,7 @@ method:
     - Stream eggs into pot while stiring vigorously
     - Turn off heat and serve hot
 prep_time: PT0H30M
-cook_time: PT30H
+cook_time: PT0H30H
 total_time: PT1H0M
 keywords: recipe,cooking
 recipe_yield: 6
