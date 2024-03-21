@@ -1,4 +1,4 @@
-- title: Vegas Foods
+- title: Vegas Trip
   images:
     - link: /assets/food/best-friend-place.jpg
       alt: The alt text for the image
@@ -10,3 +10,44 @@
       description: |-
         ### Hawaiian BBQ
         Hawaiian BBQ RIchard and I got in Vegas
+
+- title: San Diego Trip
+  images:
+    - link: /assets/food/ramen.jpg
+      alt: The alt text for the image
+      description: |-
+        ### RakiRaki Ramen
+        Ramen I got with the family
+    - link: /assets/food/hodads-burger.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Hodad's
+        Pastrami Burger I got for myself
+    - link: /assets/food/fried-catfish.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Bud's Luisiana Cafe
+        Fried Catfish I got for myself
+
+- title: Irvine Trip
+  images:
+    - link: /assets/food/crab-congee.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Crab Congee
+        Crab Congee I got with the family
+    - link: /assets/food/plantain-encrusted-chicken.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Habana
+        Plaintain Encrusted Chicken I got from Habana during OC Restaraunt Week
+    - link: /assets/food/fried-chicken.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Gus's World Famous Fried Chicken
+        Chicken meal I got with family
+    - link: /assets/food/fried-pickle=and-okra.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Gus's World Famous Fried Chicken
+        Side's we got from the chicken place
