@@ -3,7 +3,7 @@ layout: page
 title: Shawn's Gallery
 subtitle: Shawn threw stuff in here
 description: I definitely did throw stuff in here
-gallery: gallery2
+gallery: gallery_travel
 menubar: gallery_menu
 show_sidebar: false
 ---

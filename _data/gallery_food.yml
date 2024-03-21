@@ -1,0 +1,12 @@
+- title: Vegas Foods
+  images:
+    - link: /assets/food/best-friend-place.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Best Friend Place
+        Food Richard and I got from Best Friend Place
+    - link: /assets/food/hawaiian-bbq.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Hawaiian BBQ
+        Hawaiian BBQ RIchard and I got in Vegas

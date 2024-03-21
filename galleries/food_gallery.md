@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Shawn's Gallery
-subtitle: Shawn threw stuff in here
+title: Food Gallery
+subtitle: Shawn throwing foods he ate and remembered to take a picture of in here
 description: I definitely did throw stuff in here
-gallery: gallery3
+gallery: gallery_food
 menubar: gallery_menu
 show_sidebar: false
 ---
