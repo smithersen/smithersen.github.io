@@ -2,7 +2,7 @@
   items:
     - name: Gallery1
       link: galleries/gallery.html
-    - name: Gallery2
-      link: galleries/gallery2.html
-    - name: Gallery3
-      link: galleries/gallery3.html
+    - name: Food Gallery
+      link: galleries/food_gallery.html
+    - name: Travel Gallery
+      link: galleries/travel_gallery.html
