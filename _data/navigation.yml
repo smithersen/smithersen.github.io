@@ -1,10 +1,10 @@
 - name: Projects
   link: /projects/2d-platformer.html
 - name: Image Gallery
-  link: /gallery.html
+  link: /galleries/gallery.html
 - name: Blog
   link: /blog/
 - name: Recipe Page
-  link: /recipes/bistek-stir-fry
+  link: /recipes/bistek-stir-fry.html
 - name: Resume
   link: /assets/ShawnSmith-2022-Resume.pdf
