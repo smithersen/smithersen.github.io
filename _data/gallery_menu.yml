@@ -1,0 +1,6 @@
+- label: Projects
+  items:
+    - name: 2D Platformer
+      link: /projects/2d-platformer.html
+    - name: 2D RPG
+      link: /projects/2d-rpg.html

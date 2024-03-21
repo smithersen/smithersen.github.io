@@ -1,0 +1,59 @@
+- title: Image Gallery Title
+  images:
+    - link: /assets/bocchi.gif
+      large_link: /assets/bocchi.gif
+      alt: The alt text for the image
+      description: |-
+        ### Bocchi the Rock
+
+        **Bocchi the Rock** is a pretty *cool* anime.
+
+        * Saturdays
+        * Something so episodes
+      ratio: is-16by9
+    - link: /assets/winter_drive.JPG
+      large_link: /assets/winter_drive.JPG
+      alt: The alt text for the image
+      description: |-
+        ### Snow Fall
+        
+        Drive back to SD during a winter a few years back
+      ratio: is-4by3
+    - link: /assets/spiderman_sample.JPG
+      large_link: /assets/spiderman_sample.JPG
+      alt: The alt text for the image
+      description: |-
+        ### Spiderman Sample Art
+
+        **Murata** enjoyed *Into the Spider-Verse* and drew a sample for it
+      ratio: is-4by3
+
+- title: Second Image Gallery Title
+  images:
+    - link: /assets/KenRage.GIF
+      alt: The alt text for the image
+      description: When Kendric was a rager
+    - link: /assets/fiora.JPG
+      alt: The alt text for the image
+      description: The image description
+    - link: /assets/diana.JPG
+      alt: The alt text for the image
+      description: |-
+        Riot splash arts on crack
+
+- title: Third Image Gallery Title
+  images:
+    - link: /assets/pandemic.GIF
+      alt: The alt text for the image
+      description: |-
+        ### **MEME**
+    - link: /assets/Drawing.JPG
+      alt: The alt text for the image
+      description: |-
+        ### EB's Drawing
+        EB made a drawing of me
+    - link: /assets/100T.JPG
+      alt: The alt text for the image
+      description: |-
+        ### Day 1 LCS
+        OG 100 Thieves
