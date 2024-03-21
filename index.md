@@ -1,6 +1,6 @@
 ---
 title: Shawn's Personal Portfolio
-subtitle: Engineer currently based in San Diego, CA
+subtitle: Engineer
 layout: page
 #callouts: home_callouts
 show_sidebar: true
@@ -19,3 +19,11 @@ After that half year, the same company I worked at hired me full time to be a ma
 ## Purpose of this site
 
 I essentially created this site for personal and career use. Although it will mostly be used for personal projects, it is a good avenue for employers to check out and get to know me a little more. I will be updating this site throughout the days, months, years with what I am currently working on or what I am doing.
+
+## To-Do List for this Website
+
+-Update resume
+-Update about me page
+-Add food gallery for foods and restaraunts I've tried
+-Add a section for trip photos
+-Figure out whatelse I can add into here
