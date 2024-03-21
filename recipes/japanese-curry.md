@@ -37,7 +37,7 @@ method:
     - Turn off heat and serve hot
 prep_time: PT0H30M
 cook_time: PT30H
-total_time: PT1H
+total_time: PT1H0M
 keywords: recipe,cooking
 recipe_yield: 6
 recipe_category: Main course
